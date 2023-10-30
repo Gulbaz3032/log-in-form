@@ -1,0 +1,22 @@
+
+body{
+    background-image: url(imgg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    width: 30%;
+    height: 50%;
+    margin-left: 34%;
+    margin-top: 5%;
+    background-color: #072541;
+}
+h2{
+    text-align: center;
+}
+.log{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
